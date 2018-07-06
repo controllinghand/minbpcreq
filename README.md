@@ -26,4 +26,4 @@ Below is the proposed Article.
 Please provide comments and feedback.  This is only a draft and we want to get the EOS Community feedback to improve this Article.
 ___
 
-[Proposal located here:](https://github.com/controllinghand/minbpcreq/blob/master/MinimumBPCRequirements.md)
+[Proposal located here: Minimum BPC Requirements to Receive Votes ](https://github.com/controllinghand/minbpcreq/blob/master/MinimumBPCRequirements.md)
