@@ -7,7 +7,7 @@ To be included on the EOS Mainnet blockchain as a vote recipient, Block Producer
 ### Ownership Disclosure
   * List of all ultimate beneficial owners names or business associations who own more than 9.99%, as well as, all direct shareholders.
 ### Voting Disclosure
-* If any votes from the top 100 wallets are received for your candidacy, then an explanation will be required to document and prove you have no relationship with said owners of the wallets. However, if you do have a relationship then an explanation must be included. This includes any proxy wallets in the top 100.
+* To the best of the BPC knowledge if any votes from the top 100 wallets (including proxy wallets) are received for your candidacy then an explantion of that relationship must be provided and posted to the website.
 ### Contact info
 * business phone numbers, email addresses, GitHub, and social media links
 * If you are in the top 100, contact information for emergencies is shared among the top 100 BPs on how to get in touch with team 24 hours a day.
@@ -22,7 +22,7 @@ To be included on the EOS Mainnet blockchain as a vote recipient, Block Producer
 * url to the home website
 * home office country location
 * list of nodes with IP or DNS name that produce blocks and location in longitude and latitude
-# II. Performance: Demonstrated ability to produce blocks by participation on a test network.
+# II. Performance: Demonstrated ability to produce blocks by participation on a recognized test network.
 * Must miss no more than 5% of blocks over any given 3 day period.
 * If a producer has not produced any blocks within the last 24 hours they are removed from consideration until they have again demonstrated ability to produce blocks via a test network over a 24 hr period.
 # III. Security
