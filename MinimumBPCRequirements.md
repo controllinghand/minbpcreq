@@ -5,7 +5,7 @@ To be included on the EOS Mainnet blockchain as a vote recipient, Block Producer
 ## I. Checks and Balances: Have a website that includes the following in the footer or clearly linked on the homepage.  
 ### Code of conduct
 ### Ownership Disclosure
-  * List of all ultimate beneficial owners names or business associations who own more than 9.99%, as well as, all direct shareholders.
+  * List of all ultimate beneficial owners names or business associations including all direct shareholders.  All salaries should be publically listed and any financial agreement or exchange with parties besides those within your internal BP must be disclosed
 ### Voting Disclosure
 * To the best of the BPC knowledge if any votes from the top 100 wallets (including proxy wallets) are received for your candidacy then an explantion of that relationship must be provided and posted to the website.
 ### Contact info
